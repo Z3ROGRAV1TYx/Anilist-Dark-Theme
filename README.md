@@ -3,11 +3,11 @@
 This is a theme created for Anilist to enhance the user's viewing experience. 
 
 
-# How To Install:
+## How To Install:
 **Install Stylus (or a similar extension):** [Stylus Home Page](https://add0n.com/stylus.html)
 (It is not reccomended to use Stylish, due to it not being open source, and many past issues regarding analytics, telemetry, data-collection and more.)
 
-## Then Install The Userstyle From The Provided Link:
+Then Install The Userstyle From The Provided Link:
 
 **Userstyles Link:** [Gravity's Dark Anilist - 174885](https://userstyles.org/styles/174885/gravity-s-dark-anilist)
 (You can also manually import the .css file from git if you wish, you will not receive automatic updates keep in mind.)
