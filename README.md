@@ -4,8 +4,9 @@ This is a theme created for Anilist to enhance the user's viewing experience.
 
 
 ## How To Install:
-**Install [Stylus Home Page](https://add0n.com/stylus.html)** *(or a similar extension):*
-(It is not reccomended to use Stylish, due to it not being open source, and many past issues regarding analytics, telemetry, data-collection and more.)
+**Install [Stylus](https://add0n.com/stylus.html)** *(or a similar extension):*
+
+*(It is not reccomended to use Stylish, due to it not being open source, and many past issues regarding analytics, telemetry, data-collection and more.)*
 
 Install The Userstyle From The Provided Link:
 
