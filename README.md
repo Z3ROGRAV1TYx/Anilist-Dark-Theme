@@ -8,9 +8,7 @@ This is a theme created for Anilist to enhance the user's viewing experience.
 
 *(It is not reccomended to use Stylish, due to it not being open source, and many past issues regarding analytics, telemetry, data-collection and more.)*
 
-Install The Userstyle From The Provided Link:
-
-**Userstyles Link:** [Gravity's Dark Anilist - 174885](https://userstyles.org/styles/174885/gravity-s-dark-anilist)
+**Install The Userstyle:** [Gravity's Dark Anilist - 174885](https://userstyles.org/styles/174885/gravity-s-dark-anilist)
 
 - Go to [anilist.co](https://anilist.co/home) and ensure that the theme is enabled in Stylus *(or addon of choice).*
 - Go to [anilist.co/settings](https://anilist.co/settings) and ensure that the "Site Theme" is set to 'Dark', otherwise the userstyle may not work properly!
