@@ -12,8 +12,8 @@ This is a theme created for Anilist to enhance the user's viewing experience.
 **Userstyles Link:** [Gravity's Dark Anilist - 174885](https://userstyles.org/styles/174885/gravity-s-dark-anilist)
 (You can also manually import the .css file from git if you wish, you will not receive automatic updates keep in mind.)
 
-- Go to [Anilist.co](https://anilist.co/home) and ensure that the theme is enabled in Stylus (or addon of choice).
-- Go to [Anilist.co/Settings](https://anilist.co/settings) and ensure that the "Site Theme" is set to 'Dark', otherwise the userstyle may not work properly!
+- Go to [anilist.co](https://anilist.co/home) and ensure that the theme is enabled in Stylus (or addon of choice).
+- Go to [anilist.co/settings](https://anilist.co/settings) and ensure that the "Site Theme" is set to 'Dark', otherwise the userstyle may not work properly!
 
 ___________________________
 
