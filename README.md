@@ -15,6 +15,8 @@ Go to https://anilist.co/home and ensure that the theme is enabled in Stylus (or
 
 Go to https://anilist.co/settings and ensure that the "Site Theme" is set to 'Dark', otherwise the userstyle will not work properly!
 
+___________________________
+
 Extra Information:
 
 This is still in the works, there may be bugs or many broken things in the theme.
