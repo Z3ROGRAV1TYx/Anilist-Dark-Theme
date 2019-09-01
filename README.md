@@ -8,7 +8,7 @@ Install Stylus (or a similar extension): https://add0n.com/stylus.html
 
 Then install the userstyle from the provided link:
 
-Userstyles Link: https://userstyles.org/styles/170056/gravity-s-anilist-theme
+Userstyles Link: https://userstyles.org/styles/174885/gravity-s-dark-anilist
 (You can also manually import the .css file from git if you wish, you will not receive automatic updates keep in mind.)
 
 Go to https://anilist.co/home and ensure that the theme is enabled in Stylus (or addon of choice).
