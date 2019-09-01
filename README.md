@@ -25,3 +25,4 @@ This theme is forked from Erwin's Anilist theme, which is a fork of Hoh's theme.
 I created this to play around with and personalize my Anilist experience to my liking.
 If you install this, I highly reccomend installing alongside Hoh's script.
 
+Hoh's Script: https://greasyfork.org/en/scripts/370473-aniscripts
