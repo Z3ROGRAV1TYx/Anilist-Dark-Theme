@@ -26,3 +26,10 @@ I am still new to CSS, please feel free to offer help and notify me of any issue
 This theme is forked from Erwin's Anilist theme (which is a fork of Hoh's theme.)
 
 I created this to play around with and personalize my Anilist experience to my liking.
+
+___________________________
+
+## Screenshots
+
+![Home Page](https://b.catgirlsare.sexy/L8dS.png)
+![Profile Page](https://b.catgirlsare.sexy/6MWl.png)
