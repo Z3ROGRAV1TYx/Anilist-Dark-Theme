@@ -1,6 +1,6 @@
 # Anilist-Dark-Theme
 
-This is a theme created for Anilist to enhance the user's viewing experience. 
+This is a theme created for Anilist to enhance the user's viewing experience.
 
 
 ## How To Install:
@@ -13,7 +13,7 @@ This is a theme created for Anilist to enhance the user's viewing experience.
 - Go to [anilist.co](https://anilist.co/home) and ensure that the theme is enabled in Stylus *(or addon of choice).*
 - Go to [anilist.co/settings](https://anilist.co/settings) and ensure that the "Site Theme" is set to 'Dark', otherwise the userstyle may not work properly!
 
-**Optional:** I highly reccomend installing this alongside @Hoh's [Greasyfork - Aniscripts - 370473](https://greasyfork.org/en/scripts/370473-aniscripts)
+**Optional:** I highly reccomend installing this alongside @Hoh's [Automail Script](https://github.com/hohMiyazawa/Automail)
 
 - To install Hoh's script, you must install it through a Userscript manager extension.
 *(I highly reccomend [ViolentMonkey](https://github.com/violentmonkey/violentmonkey))*
