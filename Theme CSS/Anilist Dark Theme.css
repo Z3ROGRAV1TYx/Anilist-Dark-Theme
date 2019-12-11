@@ -392,8 +392,8 @@ body > div:nth-child(n) > div.popper__arrow{
 	border-radius: 3px!important;
 }
 .home {
-	grid-column-gap: 30px!important;
-	grid-template-columns: auto 465px!important;
+	grid-column-gap: 9px!important;
+	grid-template-columns: auto 580px!important;
 }
 .search {
 	margin-top: 0px!important;
@@ -451,7 +451,7 @@ body > div:nth-child(n) > div.popper__arrow{
 /*Like and comment buttons*/
 div.like-wrap:hover {
 	color: rgb(232, 93, 117);
-	transition: .2s;
+	transition: .1s;
 }
 .replies > .count {
 	color: rgb(61, 180, 242);
@@ -535,7 +535,7 @@ h2.section-header.link:hover {
 	margin-bottom: 10px;
 }
 .activity-entry{
-	margin-bottom:10px!important;
+	margin-bottom:8px!important;
 }
 .text {
     padding: 15px 10px 20px 10px!important;
@@ -599,10 +599,10 @@ h2.section-header.link:hover {
 	text-shadow: none;
 }
 .user .overview {
-	grid-template-columns: 465px auto!important;
+	grid-template-columns: 600px auto!important;
 }
 .section-header {
-    padding-left: 0px!important;
+    padding-left: 5px!important;
 }
 .user-page-unscoped.custom-color .progress .bar:after{
 	background: rgba(var(--color-blue))!important;
@@ -616,12 +616,12 @@ h2.section-header.link:hover {
 	margin-bottom: 19px!important;
 	cursor: default;
 	height: 20px;
-	border-radius: 10px;
+	border-radius: 3px;
 }
 
 /*Follow/Donator*/
 .nav-btn{
-	height: 35px;
+	height: 32px;
 }
 
 /*Genre overview from Kuwabara*/
@@ -673,20 +673,20 @@ h2.section-header.link:hover {
 }
 .genre .name,
 .status .name{
-	padding: 6px 8px!important;
+	padding: 6px 9px!important;
 }
 .overview .genre-overview .genre:last-child,
 .overview .statuses .status:last-child{
 	display: unset!important;
 }
 .percentage-bar{
-	height: 3px;
+	height: 5px;
 }
 
 /*Small stats overview*/
 .stats-wrap .milestones {
     font-size: 1rem;
-    padding: 5px 0;
+    padding: 7px 0;
 }
 .stats-wrap .progress {
     height: 3px;
@@ -700,8 +700,8 @@ h2.section-header.link:hover {
 }
 #app > div.page-content > div > div.content.container > div > div:nth-child(n) > div.stats-wrap > div:nth-child(n) > div.stats-wrap{
 	background: rgba(var(--color-foreground-grey-dark));
-	padding-top: 5px;
-	padding-bottom: 5px;
+	padding-top: 8px;
+	padding-bottom: 7px;
 }
 #app > div.page-content > div > div.content.container > div > div:nth-child(2) > div.stats-wrap > div:nth-child(n){
 	border: none!important;
@@ -709,13 +709,13 @@ h2.section-header.link:hover {
 
 /*Activities look slimmer*/
 .activity-entry:nth-child(1){
-	padding-top: 10px;
+	padding-top: 8px;
 }
 .activity-message .text {
 	border-left: solid 5px rgba(61, 180, 242);
 }
 .activity-text .text {
-	border-left: solid 5px rgba(var(--color-blue));
+	border-right: solid 3px rgba(var(--color-blue));
 }
 .activity-text .status {
 	position: absolute;
@@ -801,10 +801,10 @@ h2.section-header.link:hover {
 	background: rgba(var(--color-foreground-grey-dark));
 }
 .nav.container a.link{
-	font-size: 1.2rem;
-	padding: 9.5px;
+	font-size: 1.3rem;
+	padding: 8.5px;
 	height: 30px;
-	margin: 0 20px;
+	margin: 0 8px;
 }
 
 /*Navbar fixed on screen*/
@@ -910,7 +910,7 @@ h2.section-header .el-dropdown-link.el-dropdown-selfdefine{
 	margin-left: 0px;
 }
 .filters-wrap {
-	width: 200px!important;
+	width: 195px!important;
 }
 .draggable > span,
 .filter-group > span {
@@ -947,7 +947,7 @@ h2.section-header .el-dropdown-link.el-dropdown-selfdefine{
 }
 .medialist.cards .entry-card .notes,
 .medialist.cards .entry-card .repeat {
-	top: 12px;
+	top: 2px;
 	color: rgb(255, 255, 255);
 	filter: drop-shadow(0 0 3px rgb(0, 0, 0));
 	position: absolute;
@@ -955,14 +955,14 @@ h2.section-header .el-dropdown-link.el-dropdown-selfdefine{
 	border-radius: 50px;
 }
 .medialist.cards .list-section .list-entries {
-	grid-gap: 24px;
+	grid-gap: 3px;
 }
 .medialist.cards .entry-card .title {
-	background: rgba(31, 38, 49, .8);
+	background: rgba(31, 38, 49, .7);
 	border-radius: 0;
 	bottom: 17px;
-	padding: 5px;
-	transition: .2s;
+	padding: 2px;
+	transition: .1s;
 	font-weight: 500;
 	font-size: 1.2rem;
 }
@@ -1085,24 +1085,24 @@ span.active:hover {
 /*Stats page*/
 .filter-group .group-header{
 	background: rgba(var(--color-foreground))!important;
-	padding: 6px;
-	margin-left: -10px;
+	padding: 5px;
+	margin-left: -22px;
 	border-radius: 3px;
 }
 .filter-group a{
 	background: rgba(var(--color-foreground))!important;
 	color: rgb(255, 255, 255);
-	transition: .2s;
+	transition: .1s;
 }
 .filter-group a:hover{
 	background: rgba(var(--color-blue), .3)!important;
 	color: rgb(255, 255, 255);
-	transition: .2s;
+	transition: .1s;
 }
 .filter-group a.router-link-active{
 	background: rgba(var(--color-blue))!important;
 	color: rgb(255, 255, 255)!important;
-	transition: .2s;
+	transition: .1s;
 	font-weight: 500;
 }
 #app > div.page-content > div > div.content.container > div > div.stats-wrap > div.overview > section.highlights{
@@ -1114,43 +1114,43 @@ span.active:hover {
 	margin-bottom: 20px;
 }
 div.highlight div.value{
-	font-size: 1.7rem!important;
+	font-size: 2.0rem!important;
 }
 div.highlight div.label{
-	font-size: 1.1rem!important;
+	font-size: 1.2rem!important;
 }
 #app > div.page-content > div > div.content.container > div > div.stats-wrap > div.overview > section.highlights > div:nth-child(n) > div.wrap{
 	padding-left: 5px;
 }
 
-/*Graphes*/
+/*Graphs*/
 #app > div.page-content > div > div.content.container > div > div.stats-wrap > div.overview > section:nth-child(n) > div.bar-chart-wrap > div.bar-chart{
-	height: 70px!important;
+	height: 55px!important;
 }
 .bar-chart-wrap{
-	padding-top: 35px!important;
+	padding-top: 40px!important;
 }
 #app > div.page-content > div > div.content.container > div > div.stats-wrap > div.overview > section:nth-child(n){
-	margin-bottom: 20px;
+	margin-bottom: 15px;
 }
 #app > div.page-content > div > div.content.container > div > div.stats-wrap > div.overview > section.pie-charts{
-	margin-top: 20px;
+	margin-top: 15px;
 }
 .x-axis{
-	height: 30px;
+	height: 29px;
 }
 .x-axis .label{
 	padding-top: 10px!important;
 	padding-bottom: 10px!important;
 }
 #app > div.page-content > div > div.content.container > div > div.stats-wrap > div.overview > section:nth-child(n) > div.draggable > section{
-	margin-bottom: 20px;
+	margin-bottom: 5px;
 }
 
 /*Forum*/
 .user-threads,
 .user-comments{
-	margin-left: 20px;
+	margin-left: 15px;
 }
 #app > div.page-content > div > div.content.container > div > div.user-comments > div.wrap > div:nth-child(n) > div.comment > div.header > div.actions > div > div.button{
 	color:rgba(133,150,165);
@@ -1188,11 +1188,11 @@ p{
 }
 #app > div.page-content > div > div.content.container > div > div.user-comments > div.wrap > div:nth-child(n) > div.comment > div.header > a{
 	font-weight: 500;
-	transition: .2s;
+	transition: .1s;
 }
 #app > div.page-content > div > div.content.container > div > div.user-comments > div.wrap > div:nth-child(n) > div.comment > div.header > a:hover{
 	text-shadow: 0 0 2px;
-	transition: .2s;
+	transition: .1s;
 }
 }
 
@@ -1931,7 +1931,7 @@ h1{
 	margin-bottom: 10px!important;
 }
 #app > div.page-content > div > div.body > div.footer{
-	margin-top: 25px!important;
+	margin-top: 5px!important;
 }
 
 /*Filter modification*/
