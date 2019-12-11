@@ -17,6 +17,7 @@ This is a theme created for Anilist to enhance the user's viewing experience.
 
 - To install Hoh's script, you must install it through a Userscript manager extension.
 *(I highly reccomend [ViolentMonkey](https://github.com/violentmonkey/violentmonkey))*
+  or just Hoh's browser extension. Install notes are listed on their repository page.
 ___________________________
 
 ## Extra Information:
