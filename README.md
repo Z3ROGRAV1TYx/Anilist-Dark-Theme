@@ -26,7 +26,7 @@ This is still in the works, there may be bugs or many broken things in the theme
 I am still new to CSS, please feel free to offer help and notify me of any issues with the theme.
 This theme is forked from Erwin's Anilist theme (which is a fork of Hoh's theme.) Majority of credit goes to them.
 
-I created this to play around with and personalize my Anilist experience to my liking.
+I created this to play around with and personalize my Anilist experience to my liking. I may not be able to fix all your issues, and I may push broken stuff. You are free to create an issue, you are also free to help me out if you wish.
 
 ___________________________
 
