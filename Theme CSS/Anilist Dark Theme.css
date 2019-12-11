@@ -171,17 +171,17 @@ a.user {
 div.button.save {
 	color: rgba(var(--color-text));
 	background: rgba(var(--color-foreground));
-	transition: .2s;
-	width: 72px;
+	transition: .1s;
+	width: 70px;
 	margin: -5px 0 0 0;
 	border-style: solid;
 	border-radius: 3px;
-	border-width: 1px!important;
+	border-width: .1px!important;
 	border-color: rgba(var(--color-text),.3);
 }
 div.save.button:hover {
 	background: rgba(var(--color-foreground-blue));
-	transition: .2s;
+	transition: .1s;
 	margin-top: -5px;
 	box-shadow: none;
 }
@@ -190,10 +190,10 @@ div.save.button:hover {
 .activity-entry .button.cancel,
 .forum-thread .button.cancel{
 	color: rgba(var(--color-text))!important;
-	transition: .2s;
+	transition: .1s;
 	margin: -5px 10px 0 0;
-	width: 72px;
-	padding-left: 16px;
+	width: 65px;
+	padding-left: 13px;
 	border-style: solid;
 	border-radius: 3px;
 	border-width: 1px!important;
@@ -204,13 +204,13 @@ div.save.button:hover {
 .activity-entry .button.cancel:hover,
 .forum-thread .button.cancel:hover{
 	background: rgba(var(--color-foreground-blue));
-	transition: .2s;
+	transition: .1s;
 	margin: -5px 10px 0 0;
 	box-shadow: none;
 }
 div.like-wrap:hover {
 	color: rgb(232, 93, 117)!important;
-	transition: .2s;
+	transition: .1s;
 }
 .replies > .count {
 	color: rgb(61, 180, 242)!important;
@@ -289,16 +289,16 @@ body > div:nth-child(n) > div.popper__arrow{
 .nav .wrap .links .link:before {
 	display: inline-block;
 	content: '';
-	height: 16px;
+	height: 15px;
 	margin-top: -2px;
-	width: 24px;
+	width: 19px;
 	background-size: 20px;
 	margin-left: -14px;
-	margin-bottom: -3px;
+	margin-bottom: -4px;
 	background-repeat: no-repeat!important;
 	background-position: center;
-	filter: grayscale(100%) brightness(1.29);
-	transition: .2s;
+	filter: grayscale(90%) brightness(1.0);
+	transition: .1s;
 }
 .nav .link[href*="/user/"]:hover::before,
 .nav .link[href^="/forum/"]:hover::before,
@@ -384,7 +384,7 @@ body > div:nth-child(n) > div.popper__arrow{
 @-moz-document regexp(".*anilist.co/home"), regexp(".*anilist.co/social") {
 /*Home Adjustments*/
 .list-preview {
-	grid-gap: 10px!important;
+	grid-gap: 2px!important;
 	padding: 0px!important;
 	background: rgba(0, 0, 0, 0)!important;
 }
@@ -393,10 +393,10 @@ body > div:nth-child(n) > div.popper__arrow{
 }
 .home {
 	grid-column-gap: 9px!important;
-	grid-template-columns: auto 580px!important;
+	grid-template-columns: auto 585px!important;
 }
 .search {
-	margin-top: 0px!important;
+	margin-top: 1px!important;
 }
 .icon {
 	padding: 0px !important;
@@ -419,7 +419,7 @@ body > div:nth-child(n) > div.popper__arrow{
 	transition: .2s;
 }
 .section-header {
-    padding-left: 0px!important;
+    padding-left: 10px!important;
 }
 #app > div.page-content > div > div > div.activity-feed-wrap > div.activity-edit > div.input.el-textarea{
 	margin-bottom: 10px!important;
@@ -428,7 +428,7 @@ body > div:nth-child(n) > div.popper__arrow{
 .activity-entry.full-width.activity-anime_list,
 .activity-entry.full-width.activity-manga_list,
 .activity-entry.full-width.activity-text{
-	margin-bottom: 0px!important;
+	margin-bottom: -5px!important;
 }
 .list-preview .media-preview-card .content,
 .media-preview .media-preview-card .content{
@@ -486,7 +486,7 @@ h2.section-header.link:hover {
 
 /*Activities are seperated by color*/
 .activity-text .text {
-	border-left: solid 5px rgb(61, 180, 242);
+	border-left: solid 3px rgb(61, 180, 242);
 	border-radius: 3px;
 }
 .activity-manga_list > div > div > div > div > .title {
@@ -517,7 +517,7 @@ h2.section-header.link:hover {
 	padding-bottom: 0!important;
 }
 .activity-replies {
-	margin-top: 2px!important;
+	margin-top: 1px!important;
 }
 .reply-wrap .activity-replies .activity-edit .markdown-editor {
 	border-radius: 0;
@@ -535,7 +535,7 @@ h2.section-header.link:hover {
 	margin-bottom: 10px;
 }
 .activity-entry{
-	margin-bottom:8px!important;
+	margin-bottom:3px!important;
 }
 .text {
     padding: 15px 10px 20px 10px!important;
@@ -570,11 +570,11 @@ h2.section-header.link:hover {
 	color: rgba(var(--color-text-lighter));
 	transition: .2s;
 	width: 106px;
-	height: 25px;
+	height: 28px;
 	line-height: 2.5rem;
 }
 .activity-feed-wrap .el-dropdown-menu__item:nth-child(2){
-	margin: 0 1px 0 1px;
+	margin: 0 -10px 0 1px;
 }
 .activity-feed-wrap .el-dropdown-menu__item.active:nth-child(n){
 	background: rgba(var(--color-foreground-blue));
@@ -584,7 +584,7 @@ h2.section-header.link:hover {
 }
 .activity-feed-wrap .el-dropdown-menu__item:nth-child(n):hover{
 	color: rgba(var(--color-blue));
-	transition: .2s;
+	transition: .1s;
 }
 }
 
@@ -613,15 +613,15 @@ h2.section-header.link:hover {
 
 /*Mod badge*/
 #app > div.page-content > div > div.header-wrap > div.banner > div.container > div > div.mod-badge {
-	margin-bottom: 19px!important;
+	margin-bottom: 20px!important;
 	cursor: default;
-	height: 20px;
+	height: 19px;
 	border-radius: 3px;
 }
 
 /*Follow/Donator*/
 .nav-btn{
-	height: 32px;
+	height: 29px;
 }
 
 /*Genre overview from Kuwabara*/
@@ -669,18 +669,18 @@ h2.section-header.link:hover {
 .genres,
 .statuses{
 	grid-template-columns: repeat(auto-fill, auto)!important;
-	grid-gap: 3px;
+	grid-gap: 5px;
 }
 .genre .name,
 .status .name{
-	padding: 6px 9px!important;
+	padding: 4.3px 5px!important;
 }
 .overview .genre-overview .genre:last-child,
 .overview .statuses .status:last-child{
 	display: unset!important;
 }
 .percentage-bar{
-	height: 5px;
+	height: 4px;
 }
 
 /*Small stats overview*/
@@ -709,10 +709,10 @@ h2.section-header.link:hover {
 
 /*Activities look slimmer*/
 .activity-entry:nth-child(1){
-	padding-top: 8px;
+	padding-top: 1px;
 }
 .activity-message .text {
-	border-left: solid 5px rgba(61, 180, 242);
+	border-left: solid 3px rgba(61, 180, 242);
 }
 .activity-text .text {
 	border-right: solid 3px rgba(var(--color-blue));
