@@ -1,3 +1,5 @@
+# This project has been deprecated, [I have left Anilist](https://anilist.co/activity/63354498) and will not be updating this theme. It may still work, but in the future if things break with site updates, they will not be fixed.
+
 # Anilist-Dark-Theme
 
 This is a theme created for Anilist to enhance the user's viewing experience.
